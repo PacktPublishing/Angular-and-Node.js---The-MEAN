@@ -1,2 +1,30 @@
-# Angular-and-Node.js---The-MEAN
-Code Repository for Angular and Node.js - The MEAN, Published by Packt
+# Angular and Node.js - The MEAN Stack Guide [Video]
+This is the code repository for [Angular and Node.js - The MEAN Stack Guide [Video]](https://www.packtpub.com/virtualization-and-cloud/devops-fundamentals-and-cicd-video?utm_source=github&utm_medium=repository&utm_campaign=9781789347661), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+## About the Video Course
+This course will take you on a journey where you'll you will learn to create modern, scalable, and high-speed web applications with Angular (formerly Angular 2, now just Angular) and Node.js, Express, and MongoDB. Angular 1 and Node.js—together with Express.js (a Node.js framework) and MongoDB—formed the very popular MEAN stack. Now is the time to dive into MEAN 2.0 and replace Angular 1 with Angular 2+. This course is no Angular course , but it includes detailed explanations of the core concepts used as well as about Angular in general.
+
+<H2>What You Will Learn</H2>
+<DIV class=book-info-will-learn-text>
+<UL>
+<LI>Essential DevOps concepts and how tool-chains fit together 
+<LI>Collaborate, feel confident about experimenting with your code, and isolate changes with Git source control 
+<LI>Create unit tests and use test-driven development, so that your code will never make the same mistake twice 
+<LI>Deploy an automated build process to get your application changes into production faster 
+<LI>Drastically improve the quality of your software by understanding the value of bringing development and operations together 
+<LI>Build a highly available and fully scalable application environment in code </LI></UL></DIV>
+
+## Instructions and Navigation
+### Assumed Knowledge
+To fully benefit from the coverage included in this course, you will need:<br/>
+This course is designed for everyone interested in their putting existing Angular and Node.js knowledge into action, everyone interested in building a modern, full-stack application, and those who want to enhance their Node.js and Angular skills
+### Technical Requirements
+This course has the following software requirements:<br/>
+NA
+
+## Related Products
+* [NodeJS - The Complete Guide [Video]](https://www.packtpub.com/virtualization-and-cloud/devops-fundamentals-and-cicd-video?utm_source=github&utm_medium=repository&utm_campaign=9781789347661)
+
+* [DevOps Fundamentals and CI/CD [Video]](https://www.packtpub.com/virtualization-and-cloud/devops-fundamentals-and-cicd-video?utm_source=github&utm_medium=repository&utm_campaign=9781789347661)
+
+* [DevOps Fundamentals and CI/CD [Video]](https://www.packtpub.com/virtualization-and-cloud/devops-fundamentals-and-cicd-video?utm_source=github&utm_medium=repository&utm_campaign=9781789347661)
+
